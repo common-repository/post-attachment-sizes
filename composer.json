@@ -1,0 +1,14 @@
+{
+	"name": "Post Attachment Sizes",
+	"description": "Allows the organization/filtering of posts by total size of all attachments",
+	"keywords": ["attachments", "file sizes", "files", "attachment filter"],
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Tyler Bailey",
+			"email": "tylerb.media@gmail.com",
+			"homepage": "http://tylerb.me"
+		}
+	],
+	"type": "wordpress-plugin"
+}
